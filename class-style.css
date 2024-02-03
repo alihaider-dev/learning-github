@@ -1,0 +1,12 @@
+body {
+  background-color: yellow;
+}
+.container {
+  background-color: white;
+  padding: 50px;
+  margin: 50px;
+}
+#boss {
+  font-size: 55px;
+  color: red;
+}
